@@ -31,7 +31,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/ns3777k/go-shodan/shodan"
+	"github.com/ns3777k/go-shodan"
 )
 
 type HistoryEntry struct {
